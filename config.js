@@ -108,8 +108,8 @@ global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰","𝘼𝙠𝙨𝙚𝙨 𝘿𝙞𝙩𝙤𝙡𝙖𝙠","⚠️ 𝘼𝙘𝙘𝙨𝙚𝙨 𝘿𝙖𝙣𝙞𝙚𝙙 ⚠️"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ZYKOBOTZ MD'
-global.stickauth = `By ©ZYKO MD`
+global.stickpack = 'FIN MD'
+global.stickauth = `By ©FIN OFC`
  
 /*============== LOGO ==============*/
 global.fotonya1 = 'https://telegra.ph/file/1ee2290eedd3330a66df8.jpg' 
